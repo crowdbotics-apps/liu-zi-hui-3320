@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT liu_zi_hui_3320.wsgi:application

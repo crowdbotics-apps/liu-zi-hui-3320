@@ -1,0 +1,3 @@
+rootProject.name = 'liu_zi_hui_3320'
+
+include ':app'
